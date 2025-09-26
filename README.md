@@ -10,7 +10,7 @@ Software Developer with industry experience in Java and Microservices developmen
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,py,html,css,bash,spring,maven,selenium,mysql,mongodb,redis,elasticsearch,git,github,gitlab, docker,kubernetes,aws,jenkins,kafka,grafana,prometheus,vscode,eclipse,notion,postman,devto,stackoverflow,linux,ubuntu,arch,windows,kali,raspberrypi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,go,py,html,css,bash,spring,maven,selenium,mysql,mongodb,redis,elasticsearch,git,github,gitlab,docker,kubernetes,aws,jenkins,kafka,grafana,prometheus,vscode,eclipse,notion,postman,devto,stackoverflow,linux,ubuntu,arch,windows,kali,raspberrypi&perline=14" />
   </a>
 </p>
 
